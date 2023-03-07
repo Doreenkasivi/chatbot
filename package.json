@@ -1,0 +1,29 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Fourth year project.",
+  "main": "chatbot.js",
+  "scripts": {
+    "start": "node chatbot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doreenkasivi/chatbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "pdf",
+    "whatsapp"
+  ],
+  "author": "Doreen Kasivi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Doreenkasivi/chatbot/issues"
+  },
+  "homepage": "https://github.com/Doreenkasivi/chatbot#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "puppeteer": "^19.7.3",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
