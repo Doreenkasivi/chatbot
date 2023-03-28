@@ -23,6 +23,8 @@
   "homepage": "https://github.com/Doreenkasivi/chatbot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^5.0.0",
+    "mongoose": "^7.0.3",
+    "otp-generator": "^4.0.1",
     "puppeteer": "^19.7.3",
     "qrcode-terminal": "^0.12.0"
   }
